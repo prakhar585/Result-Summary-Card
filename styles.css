@@ -121,8 +121,7 @@ body{
 }
 
 .btn:focus {
-  outline: 2px solid #9333ea;   /* purple outline */
-  outline-offset: 3px;
+    outline-style: none;
 }
 
 
